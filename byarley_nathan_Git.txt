@@ -1,0 +1,8 @@
+Here is my GIT hub address
+
+master
+https://b35437.github.io/MiU_Week_2
+
+gh-pages
+Gold- http://b35437.github.io/MiU_Week_2/Gold/
+Bronze- http://b35437.github.io/MiU_Week_2/Bronze/
